@@ -1,0 +1,6 @@
+{
+  "name": "alkhawarizmi.agency - Digital Marketing & AI Agency",
+  "description": "A high-fidelity digital marketing platform featuring an interactive SEO grader powered by Gemini and an algorithmic multi-step Free Quote Estimator with persistent server records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
